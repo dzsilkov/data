@@ -1,163 +1,98 @@
 {
-  "posts": [
-    {
-      "title": "CopyRight Automatico",
-      "tags": "[JS]"
-    },
-    {
-      "title": "HtmlWebpackPlugin Multiples HTML files",
-      "tags": "[JS, webpack]"
-    },
-    {
-      "title": "HtmlWebpackPlugin Multiples HTML files",
-      "tags": "[JS, webpack]"
-    }
-  ],
-
-
-  "settingsItem": [
-    {
-      "title": "Учётные записи",
-      "status": "false"
-    },
-    {
-      "title": "Информация",
-      "status": "false"
-    },
-    {
-      "title": "Язык",
-      "status": "false"
-    },
-    {
-      "title": "Ограничения",
-      "status": "false"
-    },
-    {
-      "title": "Справка",
-      "status": "false"
-    }
-  ],
-
-  "items": [
+  "positions": {
+    "contractorsPositions": [
+      {
+        "id": "1",
+        "title": "Tester Manager"
+      },
+      {
+        "id": "2",
+        "title": "Project Manager"
+      },
+      {
+        "id": "3",
+        "title": "Team Leader"
+      },
+      {
+        "id": "4",
+        "title": "Manager"
+      },
+      {
+        "id": "5",
+        "title": "Software Developer"
+      },
+      {
+        "id": "6",
+        "title": "Network Engineer"
+      }
+    ],
+    "nonContractorsPositions": [
+      {
+        "id": "7",
+        "title": "System Engineer"
+      },
+      {
+        "id": "8",
+        "title": "Database Engineer"
+      },
+      {
+        "id": "9",
+        "title": "Network Administrator"
+      },
+      {
+        "id": "10",
+        "title": "System Administrator"
+      },
+      {
+        "id": "11",
+        "title": "Database Administrator"
+      },
+      {
+        "id": "12",
+        "title": "Software Tester"
+      },
+      {
+        "id": "13",
+        "title": "Network Tester"
+      }
+    ]
+  },
+  "employees": [
     {
       "id": "1",
-      "img": "https://ru.js.cx/carousel/1.png"
+      "firstName": "Sebastian",
+      "positionId": "4",
+      "isContractor": true
     },
     {
       "id": "2",
-      "img": "https://ru.js.cx/carousel/2.png"
+      "firstName": "Steve",
+      "positionId": "5",
+      "isContractor": false
     },
     {
       "id": "3",
-      "img": "https://ru.js.cx/carousel/3.png"
+      "firstName": "Ann",
+      "positionId": "3",
+      "isContractor": true
     },
     {
-      "id": "4",
-      "img": "https://ru.js.cx/carousel/4.png"
+      "id": "Pp0ncSU",
+      "firstName": "gggg",
+      "positionId": "1",
+      "isContractor": false
     },
     {
-      "id": "5",
-      "img": "https://ru.js.cx/carousel/5.png"
+      "id": "tMc-zKN",
+      "firstName": "hhhh",
+      "positionId": "1",
+      "isContractor": false
     },
     {
-      "id": "6",
-      "img": "https://ru.js.cx/carousel/6.png"
-    },
-    {
-      "id": "7",
-      "img": "https://ru.js.cx/carousel/7.png"
-    },
-    {
-      "id": "8",
-      "img": "https://ru.js.cx/carousel/8.png"
-    },
-    {
-      "id": "9",
-      "img": "https://ru.js.cx/carousel/9.png"
-    },
-    {
-      "id": "10",
-      "img": "https://ru.js.cx/carousel/10.png"
-    },
-    {
-      "id": "11",
-      "img": "https://ru.js.cx/carousel/1.png"
-    },
-    {
-      "id": "12",
-      "img": "https://ru.js.cx/carousel/2.png"
-    },
-    {
-      "id": "13",
-      "img": "https://ru.js.cx/carousel/3.png"
-    },
-    {
-      "id": "14",
-      "img": "https://ru.js.cx/carousel/4.png"
-    },
-    {
-      "id": "15",
-      "img": "https://ru.js.cx/carousel/5.png"
-    },
-    {
-      "id": "16",
-      "img": "https://ru.js.cx/carousel/6.png"
-    },
-    {
-      "id": "17",
-      "img": "https://ru.js.cx/carousel/7.png"
-    },
-    {
-      "id": "18",
-      "img": "https://ru.js.cx/carousel/8.png"
-    },
-    {
-      "id": "19",
-      "img": "https://ru.js.cx/carousel/9.png"
-    },
-    {
-      "id": "20",
-      "img": "https://ru.js.cx/carousel/10.png"
-    },
-    {
-    "id": "21",
-      "img": "https://ru.js.cx/carousel/1.png"
-    },
-    {
-      "id": "22",
-      "img": "https://ru.js.cx/carousel/2.png"
-    },
-    {
-      "id": "23",
-      "img": "https://ru.js.cx/carousel/3.png"
-    },
-    {
-      "id": "24",
-      "img": "https://ru.js.cx/carousel/4.png"
-    },
-    {
-      "id": "25",
-      "img": "https://ru.js.cx/carousel/5.png"
-    },
-    {
-      "id": "26",
-      "img": "https://ru.js.cx/carousel/6.png"
-    },
-    {
-      "id": "27",
-      "img": "https://ru.js.cx/carousel/7.png"
-    },
-    {
-      "id": "28",
-      "img": "https://ru.js.cx/carousel/8.png"
-    },
-    {
-      "id": "29",
-      "img": "https://ru.js.cx/carousel/9.png"
-    },
-    {
-      "id": "30",
-      "img": "https://ru.js.cx/carousel/10.png"
+      "id": "CoDxla6",
+      "firstName": "jjjj",
+      "positionId": "2",
+      "isContractor": false
     }
   ]
 }
