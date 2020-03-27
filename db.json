@@ -12,14 +12,9 @@
           "favourite": false
         },
         {
-          "id": "525555315",
-          "read": false,
-          "favourite": false
-        },
-        {
           "id": "156012197",
           "read": false,
-          "favourite": false
+          "favourite": true
         },
         {
           "id": "440414806",
@@ -29,10 +24,35 @@
         {
           "id": "545139708",
           "read": true,
-          "favourite": false
+          "favourite": true
         },
         {
           "id": "059035342X",
+          "read": false,
+          "favourite": true
+        },
+        {
+          "id": "140268863",
+          "read": false,
+          "favourite": false
+        },
+        {
+          "id": "451524934",
+          "read": false,
+          "favourite": true
+        },
+        {
+          "id": "64404994",
+          "read": false,
+          "favourite": true
+        },
+        {
+          "id": "345391802",
+          "read": false,
+          "favourite": false
+        },
+        {
+          "id": "156028352",
           "read": false,
           "favourite": false
         }
@@ -44,7 +64,7 @@
       "firstName": "Denis",
       "lastName": "Silkov",
       "email": "dsilkov@yandex.ru",
-      "password": "112",
+      "password": "11111",
       "books": [
         {
           "id": "1853262714",
@@ -59,15 +79,6 @@
       ],
       "token": "Books_WQICtNSkQbou6cy1rBcg6",
       "id": 6
-    },
-    {
-      "firstName": "Denis",
-      "lastName": "doe",
-      "email": "avd-alex@yandex.ru",
-      "password": "33333",
-      "books": [],
-      "token": "Books_h66x-gvWDctZdMYXsLA6i",
-      "id": 7
     }
   ],
   "books": [
